@@ -15,9 +15,7 @@ Penny Pincher is a user-friendly web application built with React.js, allowing u
 
 ### Start taking control of your finances today with Penny Pincher!
 
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
