@@ -1,6 +1,6 @@
 # Penny-Pincher
 
-Penny Pincher is a user-friendly web application built with React.js, allowing users to effectively manage their personal finances and track their expenses. With its intuitive interface and convenient features, Budget Tracker empowers users to take control of their budgeting and savings goals.
+Penny Pincher is a user-friendly web application built with React.js, allowing users to effectively manage their personal finances and track their expenses. With its intuitive interface and convenient features, this app empowers users to take control of their budgeting and savings goals.
 
 ![image](https://github.com/riyasai22/Penny-Pincher/assets/80235375/c7578902-eada-40f5-9471-43eacc52862d)
 
